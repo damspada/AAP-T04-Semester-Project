@@ -4,7 +4,6 @@
 
 import math
 
-
 def cosine_similarity(a, b, n):
     dot = 0
     norm_a = 0
